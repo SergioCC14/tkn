@@ -3,7 +3,7 @@
 center <<-EOS
   \e[1mCodenares\e[0m
 
-  #codenaresADH
+  #somosCodenares
 
 EOS
 
@@ -68,6 +68,7 @@ section "Planes de futuro" do
     1. Ciudades del Corredor del Henares.
     2. Ponentes locales (con invitados estrella).
     3. No streaming.
+    4. Tech, Tech, Tech.
     4. Comunidad libre.
   EOS
 
@@ -76,6 +77,10 @@ end
 section "Agradecimientos" do
   block <<-EOS
     \e[1m Victor J Pascual\e[0m
+  EOS
+
+  block <<-EOS
+    \e[1m Javi Albert\e[0m
   EOS
 
   center <<-EOS
@@ -108,8 +113,23 @@ section "Agradecimientos" do
     \e[1m A todos vosotros, titanes.\e[0m
   EOS
 
+  block <<-EOS
+
+    * Victor J Pascual
+    * Julio Berzal
+    * Javi Albert
+    * Rubén Aguilera
+    * Angel J. Alvarez Miguel
+    * Luis Antonio Carrasco
+    * Santi Ruiz
+
+    \e[1mY a todos vosotros, fenómenos.\e[0m
+  EOS
+
+
 section "One more thing" do
   block <<-EOS
+    \e[1mDejemos nuestra marca en el Universo \e[0m
     Enjoy! :-)
   EOS
 end
