@@ -24,6 +24,16 @@ medium.com/codenares
 
 EOS
 
+block <<-EOS
+
+GRACIAS \e[1mCarlos Cabo\e[0m
+twitter.com/putuko
+
+
+         💪
+
+EOS
+
 section "Hagamos Recap" do
   block <<-EOS
 
