@@ -78,7 +78,6 @@ section "Actividades paralelas" do
 
   EOS
 
-section "One more thing" do
   center <<-EOS
     Because the people who are crazy enough
       to think they can \e[1mchange the world\e[0m,
@@ -88,8 +87,6 @@ section "One more thing" do
   center <<-EOS
     Enjoy! :-)
   EOS
-
-end
 
 end
 
