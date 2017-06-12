@@ -30,6 +30,7 @@ GRACIAS \e[1mCarlos Cabo\e[0m
 twitter.com/putuko
 
 
+
          💪
 
 EOS
@@ -78,6 +79,7 @@ section "Actividades paralelas" do
 
   EOS
 
+section "One more thing" do
   center <<-EOS
     Because the people who are crazy enough
       to think they can \e[1mchange the world\e[0m,
@@ -87,6 +89,8 @@ section "Actividades paralelas" do
   center <<-EOS
     Enjoy! :-)
   EOS
+
+end
 
 end
 
